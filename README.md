@@ -1,2 +1,10 @@
 # aero-style-reset
-CSS/Style reset for Aero.
+Style reset for [Aero](https://github.com/aerojs/aero).
+
+Add this to your `config.json`:
+
+```json
+"plugins": {
+	"style-reset": {}
+}
+```
