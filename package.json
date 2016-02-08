@@ -1,6 +1,6 @@
 {
-	"name": "aero-style-reset",
-	"version": "0.1.0",
+	"name": "aero-reset",
+	"version": "0.1.1",
 	"description": "Style reset for Aero.",
 	"repository": "aerojs/aero-style-reset",
 	"keywords": [
@@ -12,6 +12,6 @@
 	"author": {
 		"name": "Eduard Urbach",
 		"email": "e.urbach@gmail.com",
-		"url": "http://blitzprog.org"
+		"url": "https://blitzprog.org"
 	}
 }

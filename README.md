@@ -1,10 +1,15 @@
-# aero-style-reset
+# aero-reset
 Style reset for [Aero](https://github.com/aerojs/aero).
 
-Add this to your `config.json`:
+## Installation
+Add `aero-reset` to `dependencies` in your `package.json`:
 
 ```json
-"plugins": {
-	"style-reset": {}
+"dependencies": {
+	"aero-reset": "*"
 }
 ```
+
+## Box model
+
+This plugin activates `box-sizing border-box` for all elements.
