@@ -1,6 +1,6 @@
 {
 	"name": "aero-reset",
-	"version": "0.1.4",
+	"version": "0.2.0",
 	"description": "Style reset for Aero.",
 	"repository": "aerojs/aero-style-reset",
 	"keywords": [
